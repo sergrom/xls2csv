@@ -1,5 +1,6 @@
 [![build](https://github.com/sergrom/xls2csv/actions/workflows/build.yml/badge.svg)](https://github.com/sergrom/xls2csv/actions/workflows/build.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/sergrom/xls2csv.svg)](https://pkg.go.dev/github.com/sergrom/xls2csv)
+[![Latest release](https://img.shields.io/github/v/release/sergrom/xls2csv)](https://github.com/sergrom/xls2csv/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 # xls2csv
